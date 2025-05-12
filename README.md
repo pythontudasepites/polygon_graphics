@@ -43,7 +43,9 @@ A működéshez Python 12+ verzió szükséges.
 Két alkalmazási példát mutatunk ezen osztályok használatára. Ezek programkódja az *application_examples* mappában található. Az egyik két, keresztező kardot rajzol ki, a másik egy absztrakt alkotás, ami felülnézetben lehet akár egy park a közepén szökőkúttal, vagy akár egy futópálya. Ezek képe látható alább. Mindenesetre a cél mindkét esetben a lehetőségek bemutatása.
 
 A *demo_application1* képernyőképe:
+
 ![demo_app1_screenshot.png](images%2Fdemo_app1_screenshot.png)
 
 A *demo_application1* képernyőképe:
+
 ![demo_app2_screenshot.png](images%2Fdemo_app2_screenshot.png)
