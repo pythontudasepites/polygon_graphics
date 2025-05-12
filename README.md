@@ -35,7 +35,7 @@ A grafikák előállításának lehetőségeit nagymértékben bővíti, ha az e
 
 A fenti elvek alapján elkészített **PolygonGraphics** és **Group** osztály definícióját a *fundamental_classes* nevű modul tartalmazza. A modulnév utal arra, hogy ezek az alapvető osztályok a sokszögekkel megvalósított síkidomokkal készítendő grafikákákhoz.
 
-A *shapes* mappában találhatók a konkrét síkidomok definíciói. A *quadrilaterals* modulba vannak foglalva a négyszögek (deltoid, trapéz, paralelogramma, rombusz, téglalap, négyzet) alosztályai. Az ellipszis és kör, a háromszög, valamint egy egyéni tervezésű alakzat osztálya külön modulokban vannak definiálva. 
+A *shapes* mappában találhatók a konkrét síkidomok definíciói. A *quadrilaterals* modulba vannak foglalva a négyszögek alosztályai (deltoid, trapéz, paralelogramma, rombusz, téglalap, négyzet). Az ellipszis és kör, a háromszög, valamint egy egyéni tervezésű alakzat osztálya külön modulokban vannak definiálva. 
 A működéshez Python 12+ verzió szükséges.
 
 ## Alkalmazási példák
